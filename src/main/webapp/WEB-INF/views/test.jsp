@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	test.jsp페이지 입니다~
+	test.jsp페이지 입니다~<br>
+	수정한 페이지~
 
 </body>
 </html>
